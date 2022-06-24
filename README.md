@@ -15,6 +15,7 @@ simlpe reddit account auto creator
 
 ## Function / option
 - [X] registration
+- [X] auto past info account in txt
 - [ ] Modify personal information
 - [ ] Proxy
 - [ ] Bypass captcha
