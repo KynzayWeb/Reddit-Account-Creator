@@ -4,7 +4,7 @@ simlpe reddit account auto creator
 ## Features screenshots
 
 > Exemple
-<img src="https://imgur.com/a/g68tA22" /> 
+<img src="https://imgur.com/a/g68tA22" width="665" height="369"/> 
 
 ## using
 > first
