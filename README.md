@@ -13,5 +13,6 @@ simlpe reddit account auto creator
 - [ ] Modify personal information
 - [ ] Proxy
 - [ ] Bypass captcha
+- [ ] While creation
 
 > If you want help me contact me on discord (Kynzay#4521) thank you very much！ ^_^
