@@ -1,6 +1,11 @@
 # Reddit-Account-Creator
 simlpe reddit account auto creator 
 
+## Features screenshots
+
+> Exemple
+[(exemple.gif)]
+
 ## using
 > first
 * pip install requirements.txt
